@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This was presented as a demo at CSU East Bay, therefore I made some changes. 
+
+Original resource: https://medium.com/better-programming/build-a-react-app-with-authentication-using-aws-amplify-49db1dfdc290
+
 ## Available Scripts
 
 In the project directory, you can run:
